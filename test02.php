@@ -1,6 +1,6 @@
 <?php
 include_once('./_common.php');
-
+echo "1111";
 ?>
 <table border="1">
 	<tr>
