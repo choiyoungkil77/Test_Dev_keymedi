@@ -1,0 +1,53 @@
+INFO	[2018-03-08 09:02:31:261] <22812> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.16.1.el6.x86_64,PHP:5.3.3)
+DEBUG	[2018-03-08 09:02:31:261] <22812> inipayhome:/home/was/shop/shop/inicis
+DEBUG	[2018-03-08 09:02:31:261] <22812> debug:false
+DEBUG	[2018-03-08 09:02:31:261] <22812> type:cancel
+DEBUG	[2018-03-08 09:02:31:261] <22812> mid:keydak0000
+DEBUG	[2018-03-08 09:02:31:261] <22812> admin:1111
+DEBUG	[2018-03-08 09:02:31:261] <22812> tid:StdpayVBNKkeydak000020180306152551048033
+DEBUG	[2018-03-08 09:02:31:261] <22812> cancelmsg:�ֹ��� ���� ���-a
+INFO	[2018-03-08 09:02:31:261] <22812> Check Field OK
+INFO	[2018-03-08 09:02:31:262] <22812> PI PUB KEY LOAD OK []
+INFO	[2018-03-08 09:02:31:265] <22812> PG PUB KEY LOAD OK [30]
+INFO	[2018-03-08 09:02:31:265] <22812> MERCHANT PRIV KEY LOAD OK
+INFO	[2018-03-08 09:02:31:265] <22812> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2018-03-08 09:02:31:269] <22812> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+	  <CancelTID>StdpayVBNKkeydak000020180306152551048033</CancelTID>
+	  <CancelMsg urlencode="1">%C1%D6%B9%AE%C0%DA+%BA%BB%C0%CE+%C3%EB%BC%D2-a</CancelMsg>
+	  <CancelReason/></CancelInfo>]
+INFO	[2018-03-08 09:02:31:270] <22812> MAKE BODY OK
+INFO	[2018-03-08 09:02:31:272] <22812> SIGN OK
+INFO	[2018-03-08 09:02:31:272] <22812> MAKE HEAD OK
+INFO	[2018-03-08 09:02:31:272] <22812> MSG_TO_PG:[0093700175D SHA1                   0                                      300420keydak0000                    StdpayVBNKkeydak000020180306152551048033<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <CancelInfo>
+	    <SessionKey>AEZ/su+iERcH3j1zxxJ+iEdKSgWYc4WHtRoWgzcFxMmB300+cyocp5soVE8n2OSv
+ssB3pDtSMqAt1xzWrBcezgTyyRJ6uudnslCZElCJp9Oj2+bxnm13M0jTX08pP2We
+JBXB6373/TJ9L6clovLHYODxeotwGy1Acufv/jcQ1f9ee0cBFAOibw==
+</SessionKey>
+	    <Encrypted>aMZYy0vO8NBckgD5vlL6xbGfOpM65wxmejGUQiyaFgDUtdI4DoAvzGwmIXAEnI4e
+NAWakDxSMy6P9Orr4a5dgtvzUco/fx9OdJT1icjI/FM8ggNa7S0m0dF9LMlIyJ0o
+BqdjUbBiYgxmDsOVvoijIffmDhy7wFrUnfXudVAiNxAxJAtDqshIkMyzW0wlqlUH
+u5g+k6uFzO6z4JPGbbCRNgJy0O06ku6M+MENTnsbanc+Ijyddnf0NLMUICTPbD5X
+CdxNEta6l4Nz4c+5h3pMQsX7k8jadXcrbwWMnoAJlPi34xpwvDKGETENcUUdO2ta
+</Encrypted></CancelInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209canceLinux     PHPchkfake   2.6.32-696.16.1.el6.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>ARfulfaC3N+EbFJodOQKm2ehLl95fW5Rh4CkRscY89+EVEFJuSli/C6dgLoLDt21
+xkPqZoY0nkxWk49wa/xCpj528X5aivoeRK2ymJcL5UEYVj4lMiWuKR2VuZs6UGU2
+1eRgZAKlk3ZtO26HT3I1oinPZNwVRxvefiMgXCGAC2wI
+]
+INFO	[2018-03-08 09:02:31:273] <22812> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+ERROR	[2018-03-08 09:02:36:279] <22812> [203.238.37.3소켓연결오류(MAIN)::PG2로 전환
+INFO	[2018-03-08 09:02:36:301] <22812> DNS LOOKUP OK(drpg.inicis.com:211.219.96.180:34049) laptime:0.007
+ERROR	[2018-03-08 09:02:41:307] <22812> [drpg.inicis.com소켓연결오류(MAIN)::(115)(Operation now in progress)
+INFO	[2018-03-08 09:02:46:323] <22812> END cancel [TX9509|[drpg.inicis.com소켓연결오류(MAIN)::(115)(Operation now in progress)] Laptime:[15.063sec]
+INFO	[2018-03-08 09:02:46:323] <22812> ===============================================================

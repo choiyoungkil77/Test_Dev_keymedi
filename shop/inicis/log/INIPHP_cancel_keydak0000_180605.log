@@ -1,0 +1,55 @@
+INFO	[2018-06-05 14:01:43:240] <1839> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.16.1.el6.x86_64,PHP:5.3.3)
+DEBUG	[2018-06-05 14:01:43:240] <1839> inipayhome:/home/was/shop/shop/inicis
+DEBUG	[2018-06-05 14:01:43:240] <1839> debug:false
+DEBUG	[2018-06-05 14:01:43:240] <1839> type:cancel
+DEBUG	[2018-06-05 14:01:43:240] <1839> mid:keydak0000
+DEBUG	[2018-06-05 14:01:43:240] <1839> admin:1111
+DEBUG	[2018-06-05 14:01:43:240] <1839> tid:StdpayVBNKkeydak000020180605102243111757
+DEBUG	[2018-06-05 14:01:43:240] <1839> cancelmsg:ÁÖ¹®ÀÚ º»ÀÎ Ãë¼Ò-°áÁ¦¹æ¹ýº¯°æ
+INFO	[2018-06-05 14:01:43:240] <1839> Check Field OK
+INFO	[2018-06-05 14:01:43:240] <1839> PI PUB KEY LOAD OK []
+INFO	[2018-06-05 14:01:43:243] <1839> PG PUB KEY LOAD OK [30]
+INFO	[2018-06-05 14:01:43:244] <1839> MERCHANT PRIV KEY LOAD OK
+INFO	[2018-06-05 14:01:43:245] <1839> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2018-06-05 14:01:43:248] <1839> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+	  <CancelTID>StdpayVBNKkeydak000020180605102243111757</CancelTID>
+	  <CancelMsg urlencode="1">%C1%D6%B9%AE%C0%DA+%BA%BB%C0%CE+%C3%EB%BC%D2-%B0%E1%C1%A6%B9%E6%B9%FD%BA%AF%B0%E6</CancelMsg>
+	  <CancelReason/></CancelInfo>]
+INFO	[2018-06-05 14:01:43:249] <1839> MAKE BODY OK
+INFO	[2018-06-05 14:01:43:251] <1839> SIGN OK
+INFO	[2018-06-05 14:01:43:251] <1839> MAKE HEAD OK
+INFO	[2018-06-05 14:01:43:251] <1839> MSG_TO_PG:[0099400175D SHA1                   0                                      300420keydak0000                    StdpayVBNKkeydak000020180605102243111757<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <CancelInfo>
+	    <SessionKey>3w2J84f95jJ1NrnInq5ibZBubVgVBulK3HOjnavlMykGEeQqBZ0XoaWQXsoQd0Gv
+/5LVOv8StTvchTquGU2oFYf2BHEM4hzV/MwokEkoJBePxAM79yWcxk8eEQNygb9b
+0m9rNYMCl1S75gNovlgkvHznz0bKwe3oGfyxVIqASQ7qkDNiBsxF/w==
+</SessionKey>
+	    <Encrypted>MBmFNT2YhvFMF41UI1VGdj8a7Xq0KNIfjoPSQhMvQj+mFeMHSD1mHaDlQ3CtBEOr
+aW3Ma5DiF8DUlTGfU5Jp7eUOKjFtu6KES279sZ5KVdWKHFyxboQNXfoPaDhltUSX
+yGBhpHzsSckqd6efU8+MTk8qhXP+zAL/QwOFDhkSruvYuluQJ0uleclvyMa7Nefr
+QhVK8/tQUnFZPwlZCFetOUl/fQJUngblmp3LPkmowPrgGOo48X7ku+VDnvpxUp6x
+3IkRx4BsFdDL9Loq0UC1OO4GDsxWzZ0Sbi5q5NiGTCEAXfX+YBfUOssY2XtRy3wC
+BaXl5JSPJhormOYZT9mqH64MWnsTH5rMaL7H9+CogJHB4aIPZiCHSg==
+</Encrypted></CancelInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209canceLinux     PHPchkfake   2.6.32-696.16.1.el6.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AJZsIYkJkUnU+afBFIwvdI3/Pq++s4XQGJpMVdl5dxzYrPsBNzrbahYXlZg2XMak
+brzmd4ZuPcNJ9vJzqjg0fFh+gxCGtf1lKMQMoztLIkYhSE1TIrsyPY2ragt0ob8/
+uqepRwGFWDY6TVOtimfQCgND9/JeRcp58x7/PKfbae5K
+]
+INFO	[2018-06-05 14:01:43:252] <1839> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+ERROR	[2018-06-05 14:01:48:257] <1839> [203.238.37.3ì†Œì¼“ì—°ê²°ì˜¤ë¥˜(MAIN)::PG2ë¡œ ì „í™˜
+ERROR	[2018-06-05 14:02:01:409] <1839> [drpg.inicis.com]DNS LOOKUP ì‹¤íŒ¨(MAIN)
+INFO	[2018-06-05 14:02:01:419] <1839> DNS LOOKUP OK(drpg.inicis.com:211.219.96.180:34049) laptime:5.01
+ERROR	[2018-06-05 14:02:06:424] <1839> [drpg.inicis.comì†Œì¼“ì—°ê²°ì˜¤ë¥˜(MAIN)::(115)(Operation now in progress)
+INFO	[2018-06-05 14:02:06:436] <1839> END cancel [TX9509|[drpg.inicis.comì†Œì¼“ì—°ê²°ì˜¤ë¥˜(MAIN)::(115)(Operation now in progress)] Laptime:[23.196sec]
+INFO	[2018-06-05 14:02:06:436] <1839> ===============================================================

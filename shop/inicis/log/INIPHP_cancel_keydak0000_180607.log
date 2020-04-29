@@ -1,0 +1,53 @@
+INFO	[2018-06-07 13:35:46:249] <6523> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.16.1.el6.x86_64,PHP:5.3.3)
+DEBUG	[2018-06-07 13:35:46:249] <6523> inipayhome:/home/was/shop/shop/inicis
+DEBUG	[2018-06-07 13:35:46:249] <6523> debug:false
+DEBUG	[2018-06-07 13:35:46:249] <6523> type:cancel
+DEBUG	[2018-06-07 13:35:46:249] <6523> mid:keydak0000
+DEBUG	[2018-06-07 13:35:46:249] <6523> admin:1111
+DEBUG	[2018-06-07 13:35:46:249] <6523> tid:StdpayVBNKkeydak000020180607131854071872
+DEBUG	[2018-06-07 13:35:46:249] <6523> cancelmsg:�ֹ��� ���� ���-ert
+INFO	[2018-06-07 13:35:46:250] <6523> Check Field OK
+INFO	[2018-06-07 13:35:46:250] <6523> PI PUB KEY LOAD OK []
+INFO	[2018-06-07 13:35:46:253] <6523> PG PUB KEY LOAD OK [30]
+INFO	[2018-06-07 13:35:46:254] <6523> MERCHANT PRIV KEY LOAD OK
+INFO	[2018-06-07 13:35:46:255] <6523> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2018-06-07 13:35:46:259] <6523> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+	  <CancelTID>StdpayVBNKkeydak000020180607131854071872</CancelTID>
+	  <CancelMsg urlencode="1">%C1%D6%B9%AE%C0%DA+%BA%BB%C0%CE+%C3%EB%BC%D2-ert</CancelMsg>
+	  <CancelReason/></CancelInfo>]
+INFO	[2018-06-07 13:35:46:261] <6523> MAKE BODY OK
+INFO	[2018-06-07 13:35:46:262] <6523> SIGN OK
+INFO	[2018-06-07 13:35:46:262] <6523> MAKE HEAD OK
+INFO	[2018-06-07 13:35:46:262] <6523> MSG_TO_PG:[0093700175D SHA1                   0                                      300420keydak0000                    StdpayVBNKkeydak000020180607131854071872<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <CancelInfo>
+	    <SessionKey>MHfkyhCFxjcuiXVFbqQASgzWMChu/5m9GgLdKYotgm4u7dig9flE/aY6teeYT4AV
+rkYqh2/kzuDLXf3OROkh0YWxK/Hl5zssSF8bLCERixqB6iaFiWV6QAGAZC8s2n4i
++fk4PMRh/zcklUeERoIVoWhRWXR9xNwjWvwSmfnceIntXz40QVuvDA==
+</SessionKey>
+	    <Encrypted>8a6vPmIwidjqlGJcFOTnbzigcuj2z4shm+LaxtGebWh3umUOW9N09/Fx/JhqoYhK
+HLqlTrVIq6BhlY5nUT79I1q6T28+PlsnPn8B4V2q6IBX4JdnXfZsdgRmk0PJqTIr
+c97R84CZ1UIDJqU6VFmu0CZCglCVvPw8cdkapngW9+EtyIiNngh/JfDzfTX24DdH
+nq47Fav15otGANgeCHFYv1iUVF6VQIeCUl0kSHIQljJNh8R3of/GvXEcNgCKTeAI
+7Bl/YkcGXARgTJ55lrtp3NpTQlVr85SZBdoozF7J+/jehjepgj6s9kLah3nY4L+J
+</Encrypted></CancelInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209canceLinux     PHPchkfake   2.6.32-696.16.1.el6.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AKJP2bgvREvi8RQfAvi1Dr/jWVu1hVhEfT9gXOimMfGrZAz43FhLCTDbZ2a8J8zG
+P47VWaD1GBHF20uA0j5rswX1EDO4btjMb89tf176SJLGeGHG8IJE3VrVUPSsz/90
+gCCPmeAVHN0g6GL9qJ7FBWy7zMX3q8o3DIUTzRxfswW0
+]
+INFO	[2018-06-07 13:35:46:264] <6523> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0.001
+ERROR	[2018-06-07 13:35:51:269] <6523> [203.238.37.3소켓연결오류(MAIN)::PG2로 전환
+INFO	[2018-06-07 13:35:56:290] <6523> DNS LOOKUP OK(drpg.inicis.com:211.219.96.180:34049) laptime:0.005
+ERROR	[2018-06-07 13:36:01:295] <6523> [drpg.inicis.com소켓연결오류(MAIN)::(115)(Operation now in progress)
+INFO	[2018-06-07 13:36:01:304] <6523> END cancel [TX9509|[drpg.inicis.com소켓연결오류(MAIN)::(115)(Operation now in progress)] Laptime:[15.056sec]
+INFO	[2018-06-07 13:36:01:304] <6523> ===============================================================

@@ -1,0 +1,55 @@
+INFO	[2018-05-30 09:21:33:457] <10436> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.16.1.el6.x86_64,PHP:5.3.3)
+DEBUG	[2018-05-30 09:21:33:457] <10436> inipayhome:/home/was/shop/shop/inicis
+DEBUG	[2018-05-30 09:21:33:457] <10436> debug:false
+DEBUG	[2018-05-30 09:21:33:457] <10436> type:cancel
+DEBUG	[2018-05-30 09:21:33:457] <10436> mid:keydak0000
+DEBUG	[2018-05-30 09:21:33:457] <10436> admin:1111
+DEBUG	[2018-05-30 09:21:33:457] <10436> tid:StdpayVBNKkeydak000020180521165126926844
+DEBUG	[2018-05-30 09:21:33:457] <10436> cancelmsg:�ֹ��� ���� ���-�Աݾȵ�
+INFO	[2018-05-30 09:21:33:457] <10436> Check Field OK
+INFO	[2018-05-30 09:21:33:458] <10436> PI PUB KEY LOAD OK []
+INFO	[2018-05-30 09:21:33:460] <10436> PG PUB KEY LOAD OK [30]
+INFO	[2018-05-30 09:21:33:462] <10436> MERCHANT PRIV KEY LOAD OK
+INFO	[2018-05-30 09:21:33:462] <10436> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2018-05-30 09:21:33:466] <10436> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+	  <CancelTID>StdpayVBNKkeydak000020180521165126926844</CancelTID>
+	  <CancelMsg urlencode="1">%C1%D6%B9%AE%C0%DA+%BA%BB%C0%CE+%C3%EB%BC%D2-%C0%D4%B1%DD%BE%C8%B5%CA</CancelMsg>
+	  <CancelReason/></CancelInfo>]
+INFO	[2018-05-30 09:21:33:467] <10436> MAKE BODY OK
+INFO	[2018-05-30 09:21:33:468] <10436> SIGN OK
+INFO	[2018-05-30 09:21:33:468] <10436> MAKE HEAD OK
+INFO	[2018-05-30 09:21:33:468] <10436> MSG_TO_PG:[0097000175D SHA1                   0                                      300420keydak0000                    StdpayVBNKkeydak000020180521165126926844<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <CancelInfo>
+	    <SessionKey>Mt18XFFJ8ypizMgltEccuavMMtzZ8qQ5OMAtOhm6Pr14BFV2e4tsPxNd4A2b6De8
+iPy/KKoPwgJ+isPyCmGUWN0ayGo2LK7mWRVEmDDojcN9/EoAH/+Na4o9SDKyzNY7
+erFpZMycEjDd12gEGl1F2xCLWOhXahblOc99irQEm3vqaMokDzz1SQ==
+</SessionKey>
+	    <Encrypted>P0pUIJtbG9dLlezwsbepIpeV65IPkNBSfFyMDM7s+LqLO2LsOkURQLBcvrgL68l+
+5kJ964PbHbC0I+em2rFwZYBy9Jq976w1EXrd05A/Bpz1vCzPL95D5sU8e/lkkq68
+zRzYH54Hj7Q1E53yGcUo6a8sRFLfsj1aypCkGu9DAMA757eN51EZTC7MfWL+ue3T
+70oLdlIicyt2FJ4fMVW0AzrV00OkyIxUrZOXx0OkMfNnsSu8gB3YPPCTZ9SSDFfA
+Xg8w1NIycbKQOvSlT3aUnSfU+yi4UzRZbZt8EONIl0maCPuQzZAsnww+AixJdlGd
+hUdodj43My1qfKLc7uQIxiwer8eP4bnc
+</Encrypted></CancelInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209canceLinux     PHPchkfake   2.6.32-696.16.1.el6.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AKHFcLRDHH4CV7oL/Y8kpNg3M+wvaQ1+Cci+MybcuthpsdpyeMKiVedTpObanjdF
+3Oriqqvr7A8G6eLI5qgaT7YQiil6EHQSL8nqjCgecDINn6/pvfuekBKTRjrqdqgj
+ALhKBKVhw35Hg7Lau+G5Q38WQc1lpEqzKyvZ/8ugnF85
+]
+INFO	[2018-05-30 09:21:33:469] <10436> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+ERROR	[2018-05-30 09:21:38:475] <10436> [203.238.37.3소켓연결오류(MAIN)::PG2로 전환
+ERROR	[2018-05-30 09:21:46:550] <10436> [drpg.inicis.com]DNS LOOKUP 실패(MAIN)
+INFO	[2018-05-30 09:21:46:907] <10436> DNS LOOKUP OK(drpg.inicis.com:211.219.96.180:34049) laptime:8.062
+ERROR	[2018-05-30 09:21:51:913] <10436> [drpg.inicis.com소켓연결오류(MAIN)::(115)(Operation now in progress)
+INFO	[2018-05-30 09:21:51:923] <10436> END cancel [TX9509|[drpg.inicis.com소켓연결오류(MAIN)::(115)(Operation now in progress)] Laptime:[18.466sec]
+INFO	[2018-05-30 09:21:51:923] <10436> ===============================================================

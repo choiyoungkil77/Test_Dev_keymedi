@@ -1,0 +1,160 @@
+INFO	[2018-01-30 22:23:15:39] <1487> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.16.1.el6.x86_64,PHP:5.3.3)
+DEBUG	[2018-01-30 22:23:15:39] <1487> inipayhome:/home/was/shop/shop/inicis
+DEBUG	[2018-01-30 22:23:15:39] <1487> debug:false
+DEBUG	[2018-01-30 22:23:15:39] <1487> type:cancel
+DEBUG	[2018-01-30 22:23:15:39] <1487> mid:keydak0000
+DEBUG	[2018-01-30 22:23:15:39] <1487> admin:1111
+DEBUG	[2018-01-30 22:23:15:39] <1487> tid:StdpayVBNKkeydak000020180130221211302939
+DEBUG	[2018-01-30 22:23:15:39] <1487> cancelmsg:ÁÖ¹®ÀÚ º»ÀÎ Ãë¼Ò-testÁÖ¹®
+INFO	[2018-01-30 22:23:15:39] <1487> Check Field OK
+INFO	[2018-01-30 22:23:15:39] <1487> PI PUB KEY LOAD OK []
+INFO	[2018-01-30 22:23:15:42] <1487> PG PUB KEY LOAD OK [30]
+INFO	[2018-01-30 22:23:15:43] <1487> MERCHANT PRIV KEY LOAD OK
+INFO	[2018-01-30 22:23:15:44] <1487> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2018-01-30 22:28:09:384] <443> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.16.1.el6.x86_64,PHP:5.3.3)
+DEBUG	[2018-01-30 22:28:09:384] <443> inipayhome:/home/was/shop/shop/inicis
+DEBUG	[2018-01-30 22:28:09:384] <443> debug:false
+DEBUG	[2018-01-30 22:28:09:384] <443> type:cancel
+DEBUG	[2018-01-30 22:28:09:384] <443> mid:keydak0000
+DEBUG	[2018-01-30 22:28:09:384] <443> admin:1111
+DEBUG	[2018-01-30 22:28:09:384] <443> tid:StdpayVBNKkeydak000020180130221211302939
+DEBUG	[2018-01-30 22:28:09:384] <443> cancelmsg:ÁÖ¹®ÀÚ º»ÀÎ Ãë¼Ò-testÁÖ¹®
+INFO	[2018-01-30 22:28:09:384] <443> Check Field OK
+INFO	[2018-01-30 22:28:09:384] <443> PI PUB KEY LOAD OK []
+INFO	[2018-01-30 22:28:09:384] <443> PG PUB KEY LOAD OK [30]
+INFO	[2018-01-30 22:28:09:385] <443> MERCHANT PRIV KEY LOAD OK
+INFO	[2018-01-30 22:28:09:385] <443> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2018-01-30 22:40:09:41] <29675> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.16.1.el6.x86_64,PHP:5.3.3)
+DEBUG	[2018-01-30 22:40:09:41] <29675> inipayhome:/home/was/shop/shop/inicis
+DEBUG	[2018-01-30 22:40:09:41] <29675> debug:false
+DEBUG	[2018-01-30 22:40:09:41] <29675> type:cancel
+DEBUG	[2018-01-30 22:40:09:41] <29675> mid:keydak0000
+DEBUG	[2018-01-30 22:40:09:41] <29675> admin:1111
+DEBUG	[2018-01-30 22:40:09:41] <29675> tid:StdpayVBNKkeydak000020180130221211302939
+DEBUG	[2018-01-30 22:40:09:41] <29675> cancelmsg:ÁÖ¹®ÀÚ º»ÀÎ Ãë¼Ò-testÁÖ¹®
+INFO	[2018-01-30 22:40:09:41] <29675> Check Field OK
+INFO	[2018-01-30 22:40:09:41] <29675> PI PUB KEY LOAD OK []
+INFO	[2018-01-30 22:40:09:41] <29675> PG PUB KEY LOAD OK [30]
+INFO	[2018-01-30 22:40:09:42] <29675> MERCHANT PRIV KEY LOAD OK
+INFO	[2018-01-30 22:40:09:42] <29675> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2018-01-30 22:41:25:220] <443> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.16.1.el6.x86_64,PHP:5.3.3)
+DEBUG	[2018-01-30 22:41:25:220] <443> inipayhome:/home/was/shop/shop/inicis
+DEBUG	[2018-01-30 22:41:25:220] <443> debug:false
+DEBUG	[2018-01-30 22:41:25:220] <443> type:cancel
+DEBUG	[2018-01-30 22:41:25:220] <443> mid:keydak0000
+DEBUG	[2018-01-30 22:41:25:220] <443> admin:1111
+DEBUG	[2018-01-30 22:41:25:220] <443> tid:StdpayVBNKkeydak000020180130221211302939
+DEBUG	[2018-01-30 22:41:25:220] <443> cancelmsg:ÁÖ¹®ÀÚ º»ÀÎ Ãë¼Ò-testÁÖ¹®
+INFO	[2018-01-30 22:41:25:220] <443> Check Field OK
+INFO	[2018-01-30 22:41:25:220] <443> PI PUB KEY LOAD OK []
+INFO	[2018-01-30 22:41:25:220] <443> PG PUB KEY LOAD OK [30]
+INFO	[2018-01-30 22:41:25:220] <443> MERCHANT PRIV KEY LOAD OK
+INFO	[2018-01-30 22:41:25:220] <443> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2018-01-30 22:42:18:454] <3976> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.16.1.el6.x86_64,PHP:5.3.3)
+DEBUG	[2018-01-30 22:42:18:454] <3976> inipayhome:/home/was/shop/shop/inicis
+DEBUG	[2018-01-30 22:42:18:454] <3976> debug:false
+DEBUG	[2018-01-30 22:42:18:454] <3976> type:cancel
+DEBUG	[2018-01-30 22:42:18:454] <3976> mid:keydak0000
+DEBUG	[2018-01-30 22:42:18:454] <3976> admin:1111
+DEBUG	[2018-01-30 22:42:18:454] <3976> tid:StdpayVBNKkeydak000020180130221211302939
+DEBUG	[2018-01-30 22:42:18:454] <3976> cancelmsg:ÁÖ¹®ÀÚ º»ÀÎ Ãë¼Ò-testÁÖ¹®
+INFO	[2018-01-30 22:42:18:454] <3976> Check Field OK
+INFO	[2018-01-30 22:42:18:454] <3976> PI PUB KEY LOAD OK []
+INFO	[2018-01-30 22:42:18:454] <3976> PG PUB KEY LOAD OK [30]
+INFO	[2018-01-30 22:42:18:455] <3976> MERCHANT PRIV KEY LOAD OK
+INFO	[2018-01-30 22:42:18:455] <3976> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2018-01-30 22:42:18:456] <3976> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+	  <CancelTID>StdpayVBNKkeydak000020180130221211302939</CancelTID>
+	  <CancelMsg urlencode="1">%C1%D6%B9%AE%C0%DA+%BA%BB%C0%CE+%C3%EB%BC%D2-test%C1%D6%B9%AE</CancelMsg>
+	  <CancelReason/></CancelInfo>]
+INFO	[2018-01-30 22:42:18:456] <3976> MAKE BODY OK
+INFO	[2018-01-30 22:42:18:458] <3976> SIGN OK
+INFO	[2018-01-30 22:42:18:458] <3976> MAKE HEAD OK
+INFO	[2018-01-30 22:42:18:458] <3976> MSG_TO_PG:[0096200175D SHA1                   0                                      300420keydak0000                    StdpayVBNKkeydak000020180130221211302939<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <CancelInfo>
+	    <SessionKey>vdeVDocoQxYG1icU0X1+FffokPZUdZAn6NbxDKzGznz2fCFUTAHk24css530oi2B
+DcM9sJMJCTj7z634tA/YfCr1nWv8XI8ixZFGcRW8Zcuir1oKHlRqCZFFpO0hOsMH
+PKXqhE3v9k8pJ1uYRoSvV6UCfmPXORf9kw2FqRCfyOuHKOVVR/8ggg==
+</SessionKey>
+	    <Encrypted>XjT2RjdUatxEGWqpWyrr45wwqI2A5/mCrcs3FFSlVDvNPFxRaOVgR1Hm6/Sn6NNM
+/heNJpiYlkLjHxMpUeR7sDUGpSBOfUBT9e3s8SrEyGupT/kO4GeUx4tzOTbBonb7
+0D+qrplkD2uefB/U1ibabk2UACpsHJvkNt651EuB9NmnHaGDBNGP3ihezSuElnlp
+vZI1Uz1qt71Lilru/xt4HB7ZC/xAAqbjHpv0RY7tdG3LQocgIzaRbaWrdK74PBF2
+QcvfpYrnLhpiRdlEhR9mBEX1ohJJV4F4Uy0FCI1rLjG5kVZPL7l1CFxDIcAGe4I1
+F3/hyBjNo3guEBVVuBhZAA==
+</Encrypted></CancelInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209canceLinux     PHPchkfake   2.6.32-696.16.1.el6.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AOHL4bQGA+DZmjIizxb05gBkq3dEgyCGP85FoscCZUk9yXD5/m0etq1488yBJKk2
+PUuMDmICBb6QGIHTMkHWnvRGCZNRYE6Hr1Gi3VtUlkdrBS3lBky/bqR1B6jIVLzD
+8/ermmW8dTybQD0hy7eUVusaAaME4JoyPmo1MNZh+CNM
+]
+INFO	[2018-01-30 22:42:18:458] <3976> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+ERROR	[2018-01-30 22:42:23:463] <3976> [203.238.37.3ì†Œì¼“ì—°ê²°ì˜¤ë¥˜(MAIN)::PG2ë¡œ ì „í™˜
+INFO	[2018-01-30 22:42:23:481] <3976> DNS LOOKUP OK(drpg.inicis.com:211.219.96.180:34049) laptime:0.005
+ERROR	[2018-01-30 22:42:28:487] <3976> [drpg.inicis.comì†Œì¼“ì—°ê²°ì˜¤ë¥˜(MAIN)::(115)(Operation now in progress)
+INFO	[2018-01-30 22:42:33:502] <3976> END cancel [TX9509|[drpg.inicis.comì†Œì¼“ì—°ê²°ì˜¤ë¥˜(MAIN)::(115)(Operation now in progress)] Laptime:[15.048sec]
+INFO	[2018-01-30 22:42:33:502] <3976> ===============================================================
+INFO	[2018-01-30 22:42:45:796] <3979> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.16.1.el6.x86_64,PHP:5.3.3)
+DEBUG	[2018-01-30 22:42:45:796] <3979> inipayhome:/home/was/shop/shop/inicis
+DEBUG	[2018-01-30 22:42:45:796] <3979> debug:false
+DEBUG	[2018-01-30 22:42:45:796] <3979> type:cancel
+DEBUG	[2018-01-30 22:42:45:796] <3979> mid:keydak0000
+DEBUG	[2018-01-30 22:42:45:796] <3979> admin:1111
+DEBUG	[2018-01-30 22:42:45:796] <3979> tid:StdpayVBNKkeydak000020180130221211302939
+DEBUG	[2018-01-30 22:42:45:796] <3979> cancelmsg:ÁÖ¹®ÀÚ º»ÀÎ Ãë¼Ò-testÁÖ¹®
+INFO	[2018-01-30 22:42:45:796] <3979> Check Field OK
+INFO	[2018-01-30 22:42:45:796] <3979> PI PUB KEY LOAD OK []
+INFO	[2018-01-30 22:42:45:797] <3979> PG PUB KEY LOAD OK [30]
+INFO	[2018-01-30 22:42:45:797] <3979> MERCHANT PRIV KEY LOAD OK
+INFO	[2018-01-30 22:42:45:797] <3979> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2018-01-30 22:42:45:798] <3979> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+	  <CancelTID>StdpayVBNKkeydak000020180130221211302939</CancelTID>
+	  <CancelMsg urlencode="1">%C1%D6%B9%AE%C0%DA+%BA%BB%C0%CE+%C3%EB%BC%D2-test%C1%D6%B9%AE</CancelMsg>
+	  <CancelReason/></CancelInfo>]
+INFO	[2018-01-30 22:42:45:799] <3979> MAKE BODY OK
+INFO	[2018-01-30 22:42:45:800] <3979> SIGN OK
+INFO	[2018-01-30 22:42:45:800] <3979> MAKE HEAD OK
+INFO	[2018-01-30 22:42:45:800] <3979> MSG_TO_PG:[0096200175D SHA1                   0                                      300420keydak0000                    StdpayVBNKkeydak000020180130221211302939<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <CancelInfo>
+	    <SessionKey>HEhqegmey1OeMitJETVDX3FoQxyIPgLIYNAy3NavEjRe6cvxWhn2wj3JInkZVMqs
+Wp2KCJUU/oSHCiq04h1KhyDd8w3SO7C3BgOFhk8n8CR2GdMy9eL979HMhb8DfJxK
+r5B4ZuXUGBIAE9bHyn3VzKzAszCEiFDCp14m9SONByiC7l3t8k9Gyw==
+</SessionKey>
+	    <Encrypted>ctW+WgRrPr+ewzS+U6NSalmjTDrpDa2BPAgMIFMxphDNZFqSKJONoWGmlsn7dOhM
+8egupC/V6pPGOPL5T22SJPmlBlvPmWMi0GueNIjVJHfdsftTiUExSxk1P6sPldWG
+59NgVfR7GWeY0ASIbmlpKeT1pM+axSSV7J46A9YkjrHnQZdUT765Am1RfpO6lLkS
+ihYjFd3nfrcGXD1R7muCGgNlDxexRQ6oaRHWZsDtFnJOY/VaOZpjpUKHcWq8DFRO
+pLH4A9fMyf08h0EMIUQSAOnHCYqLSOaCQ4f9owrx2hwxKrBUaFN5zZQSvjn0LaZB
+HoXRQPVJ+ua/AVQWZvEcOw==
+</Encrypted></CancelInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209canceLinux     PHPchkfake   2.6.32-696.16.1.el6.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AHn4IFTpQm+tAaPDmP/NYHgU4FWJbs2Lmp2ZhLYz6FdlOZUtZmi5AlmcHs+bgyvo
+CREDMpQj4QDxKpnXEuUpfK8WYD+H+F6xKsYJctmLy5v6uXUMXeWBZZzZV4Mf+Sxa
+syAbV1QLO/BXQt3GaYZo1j/tVtRIcFF6HGkEGeGAzivi
+]
+INFO	[2018-01-30 22:42:45:800] <3979> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+ERROR	[2018-01-30 22:42:50:805] <3979> [203.238.37.3ì†Œì¼“ì—°ê²°ì˜¤ë¥˜(MAIN)::PG2ë¡œ ì „í™˜
+INFO	[2018-01-30 22:42:50:823] <3979> DNS LOOKUP OK(drpg.inicis.com:211.219.96.180:34049) laptime:0.004
+ERROR	[2018-01-30 22:42:55:828] <3979> [drpg.inicis.comì†Œì¼“ì—°ê²°ì˜¤ë¥˜(MAIN)::(115)(Operation now in progress)
+INFO	[2018-01-30 22:42:55:838] <3979> END cancel [TX9509|[drpg.inicis.comì†Œì¼“ì—°ê²°ì˜¤ë¥˜(MAIN)::(115)(Operation now in progress)] Laptime:[10.042sec]
+INFO	[2018-01-30 22:42:55:838] <3979> ===============================================================
